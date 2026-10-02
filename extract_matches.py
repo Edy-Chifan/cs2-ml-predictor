@@ -33,51 +33,57 @@ def get_target_events():
 
     for a in soup.select("a[href*='/events/']"):
         href = a.get("href", "")
+
+        if "archive" in href:
+            continue
+
         match = re.search(r"^/events/(\d+)/([^/?#]+)", href)
-        if not match:
-            continue
-
-        event_id, event_slug = match.groups()
-
-        # Search for the parent <tr> element to check for the data-end-date attribute
-        row = a.find_parent("tr") or a
-        end_date_attr = row.get("data-end-date") or a.get("data-end-date")
-
-        if end_date_attr and end_date_attr > TODAY_STR:
-            continue
-
-        # Skip events that are ongoing or upcoming based on the row text
-        row_text = row.get_text()
-        if "Ongoing" in row_text or "Upcoming" in row_text:
-            continue
-
-        if event_id not in seen_ids:
-            seen_ids.add(event_id)
-            events.append({
-                "id": event_id,
-                "name": a.get_text(strip=True) or event_slug,
-                "url": f"{BASE_URL}/events/{event_id}/{event_slug}"
-            })
+        if match:
+            event_id, event_slug = match.groups()
+            if event_id not in seen_ids:
+                seen_ids.add(event_id)
+                events.append({
+                    "id": event_id,
+                    "name": event_slug.replace("-", " ").title(),
+                    "url": f"{BASE_URL}/events/{event_id}/{event_slug}"
+                })
 
     print(f"Found {len(events)} eligible Tier 1 tournaments.")
     return events
 
-def get_matches_for_event(event_id: str):
-    # Fetch the results page for the given event ID and extract match links
-    match_links = []
-    
-    event_matches_url = f"{BASE_URL}/events/{event_id}/matches"
-    page.get(event_matches_url)
-    time.sleep(2.0)
+def get_matches_for_event(ev: dict):
+    url = f"{BASE_URL}/results?event={ev['id']}"
 
-    soup = BeautifulSoup(page.html, "html.parser")
-    for a in soup.select("a[href^='/matches/']"):
-        href = a.get("href", "")
-        full_url = BASE_URL + href
-        if full_url not in match_links:
-            match_links.append(full_url)
+    for attempt in range(2):
+        page.get(url)
+        page.wait.ele_displayed("css:td.result-score", timeout=8)
+        time.sleep(1.0)
 
-    return match_links
+        soup = BeautifulSoup(page.html, "html.parser")
+        match_links = []
+
+        for score in soup.select("td.result-score"):
+            if score.find_parent("aside"):
+                continue
+            a = score.find_parent("a")
+            if a is None:
+                row = score.find_parent("tr")
+                a = row.select_one("a[href^='/matches/']") if row else None
+            if a is None:
+                continue
+
+            href = a.get("href", "")
+            if href.startswith("/matches/"):
+                full_url = BASE_URL + href
+                if full_url not in match_links:
+                    match_links.append(full_url)
+
+        if match_links:
+            return match_links
+
+        time.sleep(3.0)
+
+    return []
 
 def extract_all():
     events = get_target_events()
@@ -104,11 +110,16 @@ def extract_all():
     try:
         # Iterate through each tournament and extract matches
         for ev_idx, ev in enumerate(events, start=1):
+            matches = get_matches_for_event(ev)
+
+            if not matches:
+                print(f"Skipping upcoming/empty event: {ev['name']}")
+                continue
+
             print(f"\n==================================================")
             print(f"[{ev_idx}/{len(events)}] Championship: {ev['name']} (ID: {ev['id']})")
             print(f"==================================================")
 
-            matches = get_matches_for_event(ev["id"])
             print(f"Total matches in championship: {len(matches)}")
 
             for m_idx, m_url in enumerate(matches, start=1):
