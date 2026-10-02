@@ -1,0 +1,3394 @@
+[
+    {
+        "match_url": "https://www.hltv.org/matches/2398108/aurora-vs-vitality-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "20 Sep",
+        "team1": "Aurora",
+        "team2": "Vitality",
+        "series_score": "1:3",
+        "series_winner": "Vitality",
+        "maps_count": 4,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398107/vitality-vs-furia-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "20 Sep",
+        "team1": "Vitality",
+        "team2": "FURIA",
+        "series_score": "2:0",
+        "series_winner": "Vitality",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398106/mibr-vs-furia-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "19 Sep",
+        "team1": "MIBR",
+        "team2": "FURIA",
+        "series_score": "0:2",
+        "series_winner": "FURIA",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398105/aurora-vs-vitality-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "19 Sep",
+        "team1": "Aurora",
+        "team2": "Vitality",
+        "series_score": "2:1",
+        "series_winner": "Aurora",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398103/mouz-vs-furia-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "19 Sep",
+        "team1": "MOUZ",
+        "team2": "FURIA",
+        "series_score": "1:2",
+        "series_winner": "FURIA",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 19,
+                "team2_score": 16,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398104/mibr-vs-nrg-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "19 Sep",
+        "team1": "MIBR",
+        "team2": "NRG",
+        "series_score": "2:0",
+        "series_winner": "MIBR",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "MIBR"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 2,
+                "winner": "MIBR"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398102/vitality-vs-furia-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "18 Sep",
+        "team1": "Vitality",
+        "team2": "FURIA",
+        "series_score": "2:0",
+        "series_winner": "Vitality",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398101/nrg-vs-aurora-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "18 Sep",
+        "team1": "NRG",
+        "team2": "Aurora",
+        "series_score": "0:2",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 17,
+                "team2_score": 19,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398100/magic-vs-mibr-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "18 Sep",
+        "team1": "magic",
+        "team2": "MIBR",
+        "series_score": "1:2",
+        "series_winner": "MIBR",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "MIBR"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "magic"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "MIBR"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398099/mouz-vs-natus-vincere-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "18 Sep",
+        "team1": "MOUZ",
+        "team2": "Natus Vincere",
+        "series_score": "2:1",
+        "series_winner": "MOUZ",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "Natus Vincere"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398091/furia-vs-mibr-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "17 Sep",
+        "team1": "FURIA",
+        "team2": "MIBR",
+        "series_score": "2:1",
+        "series_winner": "FURIA",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "MIBR"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398090/natus-vincere-vs-aurora-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "17 Sep",
+        "team1": "Natus Vincere",
+        "team2": "Aurora",
+        "series_score": "0:2",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398089/vitality-vs-magic-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "17 Sep",
+        "team1": "Vitality",
+        "team2": "magic",
+        "series_score": "2:0",
+        "series_winner": "Vitality",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398088/mouz-vs-nrg-starladder-starseries-fall-2026",
+        "event_id": "8057",
+        "event_name": "StarLadder StarSeries Fall 20268$500,000Intl. LANBarcelona, Spain |Sep 17th-Sep 20thTeamsPrize(?)Player Share:$250,000Club Share:$250,000",
+        "date": "17 Sep",
+        "team1": "MOUZ",
+        "team2": "NRG",
+        "series_score": "1:2",
+        "series_winner": "NRG",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "NRG"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "NRG"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397623/legacy-vs-g2-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "13 Sep",
+        "team1": "Legacy",
+        "team2": "G2",
+        "series_score": "3:0",
+        "series_winner": "Legacy",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397621/betboom-vs-g2-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "12 Sep",
+        "team1": "BETBOOM",
+        "team2": "G2",
+        "series_score": "1:2",
+        "series_winner": "G2",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 16,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397622/legacy-vs-mibr-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "12 Sep",
+        "team1": "Legacy",
+        "team2": "MIBR",
+        "series_score": "2:1",
+        "series_winner": "Legacy",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "MIBR"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397619/furia-vs-g2-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "11 Sep",
+        "team1": "FURIA",
+        "team2": "G2",
+        "series_score": "0:2",
+        "series_winner": "G2",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 14,
+                "team2_score": 16,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 3,
+                "team2_score": 13,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397620/mibr-vs-alliance-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "11 Sep",
+        "team1": "MIBR",
+        "team2": "Alliance",
+        "series_score": "2:0",
+        "series_winner": "MIBR",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "MIBR"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "MIBR"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397614/g2-vs-5star-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "10 Sep",
+        "team1": "G2",
+        "team2": "5star",
+        "series_score": "2:0",
+        "series_winner": "G2",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397618/alliance-vs-magic-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "10 Sep",
+        "team1": "Alliance",
+        "team2": "magic",
+        "series_score": "2:0",
+        "series_winner": "Alliance",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 13,
+                "winner": "Alliance"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Alliance"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397613/mibr-vs-betboom-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "10 Sep",
+        "team1": "MIBR",
+        "team2": "BETBOOM",
+        "series_score": "0:2",
+        "series_winner": "BETBOOM",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 14,
+                "team2_score": 16,
+                "winner": "BETBOOM"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397617/legacy-vs-furia-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "10 Sep",
+        "team1": "Legacy",
+        "team2": "FURIA",
+        "series_score": "2:0",
+        "series_winner": "Legacy",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397612/astralis-vs-5star-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "10 Sep",
+        "team1": "Astralis",
+        "team2": "5star",
+        "series_score": "1:2",
+        "series_winner": "5star",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "5star"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Astralis"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "5star"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397616/magic-vs-parivision-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "10 Sep",
+        "team1": "magic",
+        "team2": "PARIVISION",
+        "series_score": "2:0",
+        "series_winner": "magic",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "magic"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "magic"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397611/9z-vs-g2-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "10 Sep",
+        "team1": "9z",
+        "team2": "G2",
+        "series_score": "1:2",
+        "series_winner": "G2",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "9z"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397615/alliance-vs-tyloo-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "10 Sep",
+        "team1": "Alliance",
+        "team2": "TYLOO",
+        "series_score": "2:0",
+        "series_winner": "Alliance",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Alliance"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Alliance"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397610/parivision-vs-furia-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "9 Sep",
+        "team1": "PARIVISION",
+        "team2": "FURIA",
+        "series_score": "0:2",
+        "series_winner": "FURIA",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 2,
+                "team2_score": 13,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397606/betboom-vs-astralis-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "9 Sep",
+        "team1": "BETBOOM",
+        "team2": "Astralis",
+        "series_score": "2:0",
+        "series_winner": "BETBOOM",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "BETBOOM"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397609/tyloo-vs-gamerlegion-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "9 Sep",
+        "team1": "TYLOO",
+        "team2": "GamerLegion",
+        "series_score": "2:0",
+        "series_winner": "TYLOO",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "TYLOO"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "TYLOO"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397605/big-vs-g2-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "9 Sep",
+        "team1": "BIG",
+        "team2": "G2",
+        "series_score": "1:2",
+        "series_winner": "G2",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "BIG"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397608/legacy-vs-alliance-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "9 Sep",
+        "team1": "Legacy",
+        "team2": "Alliance",
+        "series_score": "2:0",
+        "series_winner": "Legacy",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397604/9z-vs-mibr-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "9 Sep",
+        "team1": "9z",
+        "team2": "MIBR",
+        "series_score": "0:2",
+        "series_winner": "MIBR",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "MIBR"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "MIBR"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397607/magic-vs-faze-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "9 Sep",
+        "team1": "magic",
+        "team2": "FaZe",
+        "series_score": "2:1",
+        "series_winner": "magic",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "magic"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "FaZe"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 19,
+                "team2_score": 16,
+                "winner": "magic"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397603/5star-vs-the-mongolz-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "9 Sep",
+        "team1": "5star",
+        "team2": "The MongolZ",
+        "series_score": "2:0",
+        "series_winner": "5star",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "5star"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "5star"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397599/g2-vs-astralis-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "8 Sep",
+        "team1": "G2",
+        "team2": "Astralis",
+        "series_score": "1:2",
+        "series_winner": "Astralis",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Astralis"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 19,
+                "team2_score": 17,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "Astralis"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397602/furia-vs-gamerlegion-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "8 Sep",
+        "team1": "FURIA",
+        "team2": "GamerLegion",
+        "series_score": "2:1",
+        "series_winner": "FURIA",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "GamerLegion"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397600/parivision-vs-tyloo-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "8 Sep",
+        "team1": "PARIVISION",
+        "team2": "TYLOO",
+        "series_score": "2:0",
+        "series_winner": "PARIVISION",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "PARIVISION"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "PARIVISION"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397601/betboom-vs-big-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "8 Sep",
+        "team1": "BETBOOM",
+        "team2": "BIG",
+        "series_score": "2:0",
+        "series_winner": "BETBOOM",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "BETBOOM"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397598/faze-vs-alliance-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "8 Sep",
+        "team1": "FaZe",
+        "team2": "Alliance",
+        "series_score": "0:2",
+        "series_winner": "Alliance",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Alliance"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "Alliance"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397597/the-mongolz-vs-mibr-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "8 Sep",
+        "team1": "The MongolZ",
+        "team2": "MIBR",
+        "series_score": "1:2",
+        "series_winner": "MIBR",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "The MongolZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "MIBR"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 12,
+                "team2_score": 16,
+                "winner": "MIBR"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397596/legacy-vs-magic-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "8 Sep",
+        "team1": "Legacy",
+        "team2": "magic",
+        "series_score": "2:1",
+        "series_winner": "Legacy",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "magic"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2397595/9z-vs-5star-fissure-playground-3",
+        "event_id": "8266",
+        "event_name": "FISSURE Playground 316$1,000,000Intl. LANSuzhou, China |Sep 8th-Sep 13thTeamsPrize(?)Player Share:$450,000Club Share:$550,000",
+        "date": "8 Sep",
+        "team1": "9z",
+        "team2": "5star",
+        "series_score": "2:0",
+        "series_winner": "9z",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "9z"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "9z"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396951/spirit-vs-mouz-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "6 Sep",
+        "team1": "Spirit",
+        "team2": "MOUZ",
+        "series_score": "3:1",
+        "series_winner": "Spirit",
+        "maps_count": 4,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396950/mouz-vs-vitality-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "5 Sep",
+        "team1": "MOUZ",
+        "team2": "Vitality",
+        "series_score": "2:0",
+        "series_winner": "MOUZ",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396949/spirit-vs-falcons-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "5 Sep",
+        "team1": "Spirit",
+        "team2": "Falcons",
+        "series_score": "2:0",
+        "series_winner": "Spirit",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396948/furia-vs-vitality-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "4 Sep",
+        "team1": "FURIA",
+        "team2": "Vitality",
+        "series_score": "1:2",
+        "series_winner": "Vitality",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396947/falcons-vs-g2-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "4 Sep",
+        "team1": "Falcons",
+        "team2": "G2",
+        "series_score": "2:0",
+        "series_winner": "Falcons",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396946/fut-vs-vitality-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "31 Aug",
+        "team1": "FUT",
+        "team2": "Vitality",
+        "series_score": "0:2",
+        "series_winner": "Vitality",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396945/mouz-vs-falcons-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "31 Aug",
+        "team1": "MOUZ",
+        "team2": "Falcons",
+        "series_score": "2:1",
+        "series_winner": "MOUZ",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396944/g2-vs-aurora-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "31 Aug",
+        "team1": "G2",
+        "team2": "Aurora",
+        "series_score": "2:1",
+        "series_winner": "G2",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 19,
+                "team2_score": 16,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 1,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396943/spirit-vs-furia-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "31 Aug",
+        "team1": "Spirit",
+        "team2": "FURIA",
+        "series_score": "2:0",
+        "series_winner": "Spirit",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396941/vitality-vs-legacy-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "30 Aug",
+        "team1": "Vitality",
+        "team2": "Legacy",
+        "series_score": "2:1",
+        "series_winner": "Vitality",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396942/inner-circle-vs-fut-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "30 Aug",
+        "team1": "Inner Circle",
+        "team2": "FUT",
+        "series_score": "0:2",
+        "series_winner": "FUT",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "FUT"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "FUT"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396939/aurora-vs-m80-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "30 Aug",
+        "team1": "Aurora",
+        "team2": "M80",
+        "series_score": "2:0",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396940/g2-vs-natus-vincere-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "30 Aug",
+        "team1": "G2",
+        "team2": "Natus Vincere",
+        "series_score": "2:0",
+        "series_winner": "G2",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396938/legacy-vs-falcons-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "29 Aug",
+        "team1": "Legacy",
+        "team2": "Falcons",
+        "series_score": "1:2",
+        "series_winner": "Falcons",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396937/fut-vs-lynn-vision-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "29 Aug",
+        "team1": "FUT",
+        "team2": "Lynn Vision",
+        "series_score": "2:1",
+        "series_winner": "FUT",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "Lynn Vision"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "FUT"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "FUT"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396936/inner-circle-vs-mouz-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "29 Aug",
+        "team1": "Inner Circle",
+        "team2": "MOUZ",
+        "series_score": "0:2",
+        "series_winner": "MOUZ",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396935/vitality-vs-9z-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "29 Aug",
+        "team1": "Vitality",
+        "team2": "9z",
+        "series_score": "2:0",
+        "series_winner": "Vitality",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 2,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396934/m80-vs-furia-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "28 Aug",
+        "team1": "M80",
+        "team2": "FURIA",
+        "series_score": "0:2",
+        "series_winner": "FURIA",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 16,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396933/natus-vincere-vs-pain-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "28 Aug",
+        "team1": "Natus Vincere",
+        "team2": "paiN",
+        "series_score": "2:0",
+        "series_winner": "Natus Vincere",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Natus Vincere"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Natus Vincere"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396932/g2-vs-spirit-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "28 Aug",
+        "team1": "G2",
+        "team2": "Spirit",
+        "series_score": "0:2",
+        "series_winner": "Spirit",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396931/aurora-vs-dendele-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "28 Aug",
+        "team1": "Aurora",
+        "team2": "DENDELE",
+        "series_score": "2:0",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 16,
+                "team2_score": 12,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396930/falcons-vs-lynn-vision-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "27 Aug",
+        "team1": "Falcons",
+        "team2": "Lynn Vision",
+        "series_score": "2:1",
+        "series_winner": "Falcons",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "Lynn Vision"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396929/legacy-vs-fut-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "27 Aug",
+        "team1": "Legacy",
+        "team2": "FUT",
+        "series_score": "2:0",
+        "series_winner": "Legacy",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396928/mouz-vs-9z-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "27 Aug",
+        "team1": "MOUZ",
+        "team2": "9z",
+        "series_score": "2:0",
+        "series_winner": "MOUZ",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396927/vitality-vs-inner-circle-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "27 Aug",
+        "team1": "Vitality",
+        "team2": "Inner Circle",
+        "series_score": "0:2",
+        "series_winner": "Inner Circle",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Inner Circle"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 16,
+                "winner": "Inner Circle"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396926/furia-vs-pain-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "26 Aug",
+        "team1": "FURIA",
+        "team2": "paiN",
+        "series_score": "2:0",
+        "series_winner": "FURIA",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 2,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396925/natus-vincere-vs-m80-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "26 Aug",
+        "team1": "Natus Vincere",
+        "team2": "M80",
+        "series_score": "1:2",
+        "series_winner": "M80",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Natus Vincere"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "M80"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "M80"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396924/spirit-vs-dendele-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "26 Aug",
+        "team1": "Spirit",
+        "team2": "DENDELE",
+        "series_score": "2:0",
+        "series_winner": "Spirit",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396923/aurora-vs-g2-blast-open-porto-2026",
+        "event_id": "8249",
+        "event_name": "BLAST Open Porto 202616$1,100,000Intl. LANCPH, DK & Porto, PT |Aug 26th-Sep 6thTeamsPrize(?)Player Share:$400,000Club Share:$700,000",
+        "date": "26 Aug",
+        "team1": "Aurora",
+        "team2": "G2",
+        "series_score": "0:2",
+        "series_winner": "G2",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 12,
+                "team2_score": 16,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396614/fut-vs-spirit-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "23 Aug",
+        "team1": "FUT",
+        "team2": "Spirit",
+        "series_score": "1:3",
+        "series_winner": "Spirit",
+        "maps_count": 4,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "FUT"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 16,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 14,
+                "team2_score": 16,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396613/furia-vs-legacy-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "23 Aug",
+        "team1": "FURIA",
+        "team2": "Legacy",
+        "series_score": "1:2",
+        "series_winner": "Legacy",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396612/legacy-vs-spirit-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "22 Aug",
+        "team1": "Legacy",
+        "team2": "Spirit",
+        "series_score": "0:2",
+        "series_winner": "Spirit",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396611/furia-vs-fut-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "22 Aug",
+        "team1": "FURIA",
+        "team2": "FUT",
+        "series_score": "1:2",
+        "series_winner": "FUT",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "FUT"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 16,
+                "winner": "FUT"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396610/vitality-vs-spirit-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "21 Aug",
+        "team1": "Vitality",
+        "team2": "Spirit",
+        "series_score": "1:2",
+        "series_winner": "Spirit",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 3,
+                "team2_score": 13,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396609/legacy-vs-falcons-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "21 Aug",
+        "team1": "Legacy",
+        "team2": "Falcons",
+        "series_score": "2:0",
+        "series_winner": "Legacy",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396608/fut-vs-mouz-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "21 Aug",
+        "team1": "FUT",
+        "team2": "MOUZ",
+        "series_score": "2:0",
+        "series_winner": "FUT",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 16,
+                "team2_score": 13,
+                "winner": "FUT"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "FUT"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396607/g2-vs-furia-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "20 Aug",
+        "team1": "G2",
+        "team2": "FURIA",
+        "series_score": "1:2",
+        "series_winner": "FURIA",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 3,
+                "team2_score": 13,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396606/b8-vs-spirit-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "20 Aug",
+        "team1": "B8",
+        "team2": "Spirit",
+        "series_score": "0:2",
+        "series_winner": "Spirit",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396605/faze-vs-vitality-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "20 Aug",
+        "team1": "FaZe",
+        "team2": "Vitality",
+        "series_score": "0:2",
+        "series_winner": "Vitality",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396603/natus-vincere-vs-legacy-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "20 Aug",
+        "team1": "Natus Vincere",
+        "team2": "Legacy",
+        "series_score": "0:2",
+        "series_winner": "Legacy",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 2,
+                "team2_score": 13,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396604/falcons-vs-the-mongolz-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "20 Aug",
+        "team1": "Falcons",
+        "team2": "The MongolZ",
+        "series_score": "2:0",
+        "series_winner": "Falcons",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396602/gamerlegion-vs-mouz-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "19 Aug",
+        "team1": "GamerLegion",
+        "team2": "MOUZ",
+        "series_score": "1:2",
+        "series_winner": "MOUZ",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 22,
+                "team2_score": 19,
+                "winner": "GamerLegion"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396600/furia-vs-aurora-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "19 Aug",
+        "team1": "FURIA",
+        "team2": "Aurora",
+        "series_score": "2:1",
+        "series_winner": "FURIA",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 14,
+                "team2_score": 16,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396601/fut-vs-magic-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "19 Aug",
+        "team1": "FUT",
+        "team2": "magic",
+        "series_score": "2:1",
+        "series_winner": "FUT",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "magic"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "FUT"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "FUT"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396599/g2-vs-astralis-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "19 Aug",
+        "team1": "G2",
+        "team2": "Astralis",
+        "series_score": "2:1",
+        "series_winner": "G2",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Astralis"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396593/legacy-vs-mibr-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "16 Aug",
+        "team1": "Legacy",
+        "team2": "MIBR",
+        "series_score": "2:0",
+        "series_winner": "Legacy",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396594/astralis-vs-ninjas-in-pyjamas-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "16 Aug",
+        "team1": "Astralis",
+        "team2": "Ninjas in Pyjamas",
+        "series_score": "2:1",
+        "series_winner": "Astralis",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "Astralis"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "Ninjas in Pyjamas"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Astralis"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396597/magic-vs-9z-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "16 Aug",
+        "team1": "magic",
+        "team2": "9z",
+        "series_score": "2:1",
+        "series_winner": "magic",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 19,
+                "team2_score": 17,
+                "winner": "magic"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "9z"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "magic"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396595/mouz-vs-parivision-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "16 Aug",
+        "team1": "MOUZ",
+        "team2": "PARIVISION",
+        "series_score": "2:0",
+        "series_winner": "MOUZ",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396598/the-mongolz-vs-pain-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "16 Aug",
+        "team1": "The MongolZ",
+        "team2": "paiN",
+        "series_score": "2:0",
+        "series_winner": "The MongolZ",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "The MongolZ"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "The MongolZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396596/lynn-vision-vs-vitality-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "16 Aug",
+        "team1": "Lynn Vision",
+        "team2": "Vitality",
+        "series_score": "0:2",
+        "series_winner": "Vitality",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 2,
+                "team2_score": 13,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396591/spirit-vs-big-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "15 Aug",
+        "team1": "Spirit",
+        "team2": "BIG",
+        "series_score": "2:1",
+        "series_winner": "Spirit",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "BIG"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396592/jijiehao-vs-aurora-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "15 Aug",
+        "team1": "JiJieHao",
+        "team2": "Aurora",
+        "series_score": "0:2",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396588/furia-vs-9z-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "15 Aug",
+        "team1": "FURIA",
+        "team2": "9z",
+        "series_score": "2:1",
+        "series_winner": "FURIA",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 16,
+                "winner": "9z"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396589/magic-vs-3dmax-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "15 Aug",
+        "team1": "magic",
+        "team2": "3DMAX",
+        "series_score": "2:0",
+        "series_winner": "magic",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "magic"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "magic"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396590/wildcard-vs-pain-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "15 Aug",
+        "team1": "Wildcard",
+        "team2": "paiN",
+        "series_score": "1:2",
+        "series_winner": "paiN",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 16,
+                "team2_score": 12,
+                "winner": "Wildcard"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 3,
+                "team2_score": 13,
+                "winner": "paiN"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "paiN"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396587/the-mongolz-vs-natus-vincere-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "15 Aug",
+        "team1": "The MongolZ",
+        "team2": "Natus Vincere",
+        "series_score": "1:2",
+        "series_winner": "Natus Vincere",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "Natus Vincere"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "The MongolZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Natus Vincere"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396585/parivision-vs-100-thieves-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "14 Aug",
+        "team1": "PARIVISION",
+        "team2": "100 Thieves",
+        "series_score": "2:0",
+        "series_winner": "PARIVISION",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "PARIVISION"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "PARIVISION"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396581/k27-vs-mibr-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "14 Aug",
+        "team1": "K27",
+        "team2": "MIBR",
+        "series_score": "0:2",
+        "series_winner": "MIBR",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "MIBR"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "MIBR"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396583/b8-vs-vitality-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "14 Aug",
+        "team1": "B8",
+        "team2": "Vitality",
+        "series_score": "2:1",
+        "series_winner": "B8",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 12,
+                "team2_score": 16,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "B8"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "B8"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396584/fut-vs-mouz-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "14 Aug",
+        "team1": "FUT",
+        "team2": "MOUZ",
+        "series_score": "2:1",
+        "series_winner": "FUT",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FUT"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 12,
+                "team2_score": 16,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "FUT"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396586/tyloo-vs-lynn-vision-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "14 Aug",
+        "team1": "TYLOO",
+        "team2": "Lynn Vision",
+        "series_score": "0:2",
+        "series_winner": "Lynn Vision",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Lynn Vision"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "Lynn Vision"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396582/ninjas-in-pyjamas-vs-betboom-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "14 Aug",
+        "team1": "Ninjas in Pyjamas",
+        "team2": "BETBOOM",
+        "series_score": "2:0",
+        "series_winner": "Ninjas in Pyjamas",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "Ninjas in Pyjamas"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Ninjas in Pyjamas"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396580/legacy-vs-faze-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "13 Aug",
+        "team1": "Legacy",
+        "team2": "FaZe",
+        "series_score": "0:2",
+        "series_winner": "FaZe",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "FaZe"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "FaZe"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396579/falcons-vs-astralis-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "13 Aug",
+        "team1": "Falcons",
+        "team2": "Astralis",
+        "series_score": "2:0",
+        "series_winner": "Falcons",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396576/big-vs-g2-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "13 Aug",
+        "team1": "BIG",
+        "team2": "G2",
+        "series_score": "1:2",
+        "series_winner": "G2",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 13,
+                "winner": "BIG"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 1,
+                "team2_score": 13,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396578/aurora-vs-m80-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "13 Aug",
+        "team1": "Aurora",
+        "team2": "M80",
+        "series_score": "2:0",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396577/luminosity-vs-spirit-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "13 Aug",
+        "team1": "Luminosity",
+        "team2": "Spirit",
+        "series_score": "0:2",
+        "series_winner": "Spirit",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 3,
+                "team2_score": 13,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 15,
+                "team2_score": 19,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396575/gamerlegion-vs-jijiehao-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "13 Aug",
+        "team1": "GamerLegion",
+        "team2": "JiJieHao",
+        "series_score": "2:0",
+        "series_winner": "GamerLegion",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "GamerLegion"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "GamerLegion"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396573/9z-vs-pain-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "9z",
+        "team2": "paiN",
+        "series_score": "1:0",
+        "series_winner": "9z",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "9z"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396570/lynn-vision-vs-mouz-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "Lynn Vision",
+        "team2": "MOUZ",
+        "series_score": "0:1",
+        "series_winner": "MOUZ",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396567/vitality-vs-100-thieves-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "Vitality",
+        "team2": "100 Thieves",
+        "series_score": "1:0",
+        "series_winner": "Vitality",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396574/wildcard-vs-furia-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "Wildcard",
+        "team2": "FURIA",
+        "series_score": "0:1",
+        "series_winner": "FURIA",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396571/natus-vincere-vs-3dmax-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "Natus Vincere",
+        "team2": "3DMAX",
+        "series_score": "1:0",
+        "series_winner": "Natus Vincere",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Natus Vincere"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396564/mibr-vs-astralis-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "MIBR",
+        "team2": "Astralis",
+        "series_score": "0:1",
+        "series_winner": "Astralis",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Astralis"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396565/betboom-vs-faze-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "BETBOOM",
+        "team2": "FaZe",
+        "series_score": "0:1",
+        "series_winner": "FaZe",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "FaZe"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396568/parivision-vs-b8-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "PARIVISION",
+        "team2": "B8",
+        "series_score": "0:1",
+        "series_winner": "B8",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "B8"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396563/falcons-vs-k27-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "Falcons",
+        "team2": "K27",
+        "series_score": "1:0",
+        "series_winner": "Falcons",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396566/ninjas-in-pyjamas-vs-legacy-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "Ninjas in Pyjamas",
+        "team2": "Legacy",
+        "series_score": "0:1",
+        "series_winner": "Legacy",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396561/g2-vs-m80-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "G2",
+        "team2": "M80",
+        "series_score": "1:0",
+        "series_winner": "G2",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396572/magic-vs-the-mongolz-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "magic",
+        "team2": "The MongolZ",
+        "series_score": "0:1",
+        "series_winner": "The MongolZ",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "The MongolZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396559/spirit-vs-jijiehao-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "Spirit",
+        "team2": "JiJieHao",
+        "series_score": "0:1",
+        "series_winner": "JiJieHao",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "JiJieHao"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396569/fut-vs-tyloo-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "FUT",
+        "team2": "TYLOO",
+        "series_score": "1:0",
+        "series_winner": "FUT",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "FUT"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396562/big-vs-aurora-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "BIG",
+        "team2": "Aurora",
+        "series_score": "1:0",
+        "series_winner": "BIG",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "BIG"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2396560/luminosity-vs-gamerlegion-esports-world-cup-2026",
+        "event_id": "8261",
+        "event_name": "Esports World Cup 202632$2,000,000Intl. LANParis, France |Aug 12th-Aug 23rdTeamsPrize",
+        "date": "12 Aug",
+        "team1": "Luminosity",
+        "team2": "GamerLegion",
+        "series_score": "0:1",
+        "series_winner": "GamerLegion",
+        "maps_count": 1,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 3,
+                "team2_score": 13,
+                "winner": "GamerLegion"
+            }
+        ]
+    }
+]
