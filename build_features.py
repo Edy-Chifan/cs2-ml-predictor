@@ -168,12 +168,12 @@ def build_features(df_matches, df_maps):
 
 if __name__ == "__main__":
     df_matches, df_maps = load_data_from_db()
-    print(f"Generare features pentru {len(df_matches)} meciuri...")
+    print(f"Generating features for {len(df_matches)} matches...")
     df_features = build_features(df_matches, df_maps)
     
     # Verify the distribution of the target variable
     balance = df_features["target_team1_won"].mean()
-    print(f"Distribuția target_team1_won: {balance:.2%}")
+    print(f"Distribution of target_team1_won: {balance:.2%}")
     
     df_features.to_csv("cs2_ml_dataset.csv", index=False)
-    print("Salvat în cs2_ml_dataset.csv!")
+    print("Saved to cs2_ml_dataset.csv!")
