@@ -18,7 +18,6 @@ DB_CONFIG = {
 }
 
 def get_team_id(cursor, team_name):
-    """Găsește ID-ul și numele oficial al unei echipe."""
     cursor.execute("SELECT id, name FROM teams WHERE LOWER(name) = LOWER(%s) LIMIT 1;", (team_name,))
     row = cursor.fetchone()
     if row:
@@ -31,10 +30,10 @@ def get_team_id(cursor, team_name):
     return None, None
 
 def compute_team_stats(cursor, team_id, ref_date):
-    """Calculează statisticile folosind winner_team_id."""
+    """Calculate aggregated historical and rolling 90-day statistics."""
     cutoff_90d = ref_date - timedelta(days=90)
 
-    # 1. Toate seriile anterioare
+    # All-time series
     cursor.execute("""
         SELECT COUNT(*),
                COUNT(*) FILTER (WHERE winner_team_id = %s)
@@ -45,7 +44,7 @@ def compute_team_stats(cursor, team_id, ref_date):
     """, (team_id, team_id, team_id, ref_date))
     all_matches, all_wins = cursor.fetchone()
 
-    # 2. Seriile din ultimele 90 de zile
+    # Rolling 90-day series
     cursor.execute("""
         SELECT COUNT(*),
                COUNT(*) FILTER (WHERE winner_team_id = %s)
@@ -56,7 +55,7 @@ def compute_team_stats(cursor, team_id, ref_date):
     """, (team_id, team_id, team_id, cutoff_90d, ref_date))
     m90_matches, m90_wins = cursor.fetchone()
 
-    # 3. Toate hărțile
+    # All-time maps
     cursor.execute("""
         SELECT COUNT(*),
                COUNT(*) FILTER (WHERE mm.winner_team_id = %s)
@@ -68,7 +67,7 @@ def compute_team_stats(cursor, team_id, ref_date):
     """, (team_id, team_id, team_id, ref_date))
     all_maps, all_map_wins = cursor.fetchone()
 
-    # 4. Hărțile din ultimele 90 de zile
+    # Rolling 90-day maps
     cursor.execute("""
         SELECT COUNT(*),
                COUNT(*) FILTER (WHERE mm.winner_team_id = %s)
@@ -95,7 +94,7 @@ def compute_team_stats(cursor, team_id, ref_date):
     }
 
 def compute_h2h_stats(cursor, t1_id, t2_id, ref_date):
-    """Calculează meciurile directe anterioare între cele două echipe."""
+    """Calculate head-to-head metrics between the two teams."""
     cutoff_90d = ref_date - timedelta(days=90)
 
     cursor.execute("""
@@ -129,7 +128,7 @@ def compute_h2h_stats(cursor, t1_id, t2_id, ref_date):
     }
 
 def compute_map_specific_wr(cursor, team_id, map_name):
-    """Calculează winrate-ul pe o hartă specifică folosind mm.winner_team_id."""
+    """Calculate historical win rate on a specific map."""
     cursor.execute("""
         SELECT COUNT(*),
                COUNT(*) FILTER (WHERE mm.winner_team_id = %s)
@@ -147,7 +146,7 @@ def compute_map_specific_wr(cursor, team_id, map_name):
 
 def predict_match(t1_name, t2_name, match_format="BO3", maps=None):
     if not os.path.exists("cs2_model.pkl") or not os.path.exists("model_features.pkl"):
-        print("Eroare: cs2_model.pkl sau model_features.pkl lipsesc!")
+        print("Error: cs2_model.pkl or model_features.pkl not found! Run train_model.py first.")
         return
 
     model = joblib.load("cs2_model.pkl")
@@ -160,11 +159,11 @@ def predict_match(t1_name, t2_name, match_format="BO3", maps=None):
     t2_id, t2_real_name = get_team_id(cur, t2_name)
 
     if not t1_id:
-        print(f"Echipa '{t1_name}' nu a fost găsită în baza de date.")
+        print(f"Error: Team '{t1_name}' was not found in database.")
         cur.close(); conn.close()
         return
     if not t2_id:
-        print(f"Echipa '{t2_name}' nu a fost găsită în baza de date.")
+        print(f"Error: Team '{t2_name}' was not found in database.")
         cur.close(); conn.close()
         return
 
@@ -204,16 +203,18 @@ def predict_match(t1_name, t2_name, match_format="BO3", maps=None):
     df_sample = pd.DataFrame([sample])[feature_cols]
     base_p1 = model.predict_proba(df_sample)[0, 1]
 
-    print("=" * 65)
-    print(f"  PREDICȚIE MECI: {t1_real_name} vs {t2_real_name} [{match_format.upper()}]")
-    print("=" * 65)
-    print(f"{t1_real_name:<20} | 90d Series WR: {t1_stats['series_wr_90d']*100:.1f}% ({t1_stats['matches_90d']} meciuri)")
-    print(f"{t2_real_name:<20} | 90d Series WR: {t2_stats['series_wr_90d']*100:.1f}% ({t2_stats['matches_90d']} meciuri)")
-    print(f"Meciuri directe (H2H): {h2h_stats['h2h_matches_all']} partide | Rata victorii {t1_real_name}: {h2h_stats['h2h_wr_all']*100:.1f}%")
-    print("-" * 65)
+    print("=" * 68)
+    print(f"  CS2 MATCH PREDICTION: {t1_real_name} vs {t2_real_name} [{match_format.upper()}]")
+    print("=" * 68)
+    print(f"{t1_real_name:<20} | 90d Series WR: {t1_stats['series_wr_90d']*100:.1f}% ({t1_stats['matches_90d']} matches)")
+    print(f"{t2_real_name:<20} | 90d Series WR: {t2_stats['series_wr_90d']*100:.1f}% ({t2_stats['matches_90d']} matches)")
+    print(f"Head-to-Head (H2H):  {h2h_stats['h2h_matches_all']} matches | {t1_real_name} win rate: {h2h_stats['h2h_wr_all']*100:.1f}%")
+    print("-" * 68)
+
+    fmt = match_format.upper()
 
     if maps and len(maps) > 0:
-        print("\n--- ANALIZĂ PE HĂRȚI ---")
+        print("\n--- MAP-SPECIFIC BREAKDOWN ---")
         map_probs = []
         for m in maps:
             m_clean = m.strip()
@@ -224,35 +225,98 @@ def predict_match(t1_name, t2_name, match_format="BO3", maps=None):
             map_p1 = float(np.clip(base_p1 + (diff_wr * 0.25), 0.05, 0.95))
             map_probs.append(map_p1)
 
-            print(f"Harta {m_clean:<10}: {t1_real_name} ({t1_wr*100:.0f}%, {t1_w}/{t1_played}) vs {t2_real_name} ({t2_wr*100:.0f}%, {t2_w}/{t2_played}) => P({t1_real_name}) = {map_p1*100:.1f}%")
+            print(f"Map {m_clean:<10}: {t1_real_name} ({t1_wr*100:.0f}%, {t1_w}/{t1_played}) vs {t2_real_name} ({t2_wr*100:.0f}%, {t2_w}/{t2_played}) => P({t1_real_name}) = {map_p1*100:.1f}%")
 
-        if match_format.upper() == "BO1":
+        if fmt == "BO1":
             final_p1 = map_probs[0]
-            print(f"\nPredicție Finală BO1:")
-            print(f"  {t1_real_name}: {final_p1*100:.2f}%")
-            print(f"  {t2_real_name}: {(1 - final_p1)*100:.2f}%")
-
-        elif match_format.upper() == "BO3" and len(map_probs) >= 3:
-            p1, p2, p3 = map_probs[0], map_probs[1], map_probs[2]
-            p_2_0 = p1 * p2
-            p_2_1 = (p1 * (1 - p2) * p3) + ((1 - p1) * p2 * p3)
-            p_0_2 = (1 - p1) * (1 - p2)
-            p_1_2 = ((1 - p1) * p2 * (1 - p3)) + (p1 * (1 - p2) * (1 - p3))
-            
-            final_p1 = p_2_0 + p_2_1
             winner = t1_real_name if final_p1 >= 0.5 else t2_real_name
-            print(f"\n--- REZULTAT SERIE BO3 ---")
-            print(f"Câștigător probabil: {winner}")
-            print(f"Șanse victorie:")
+            print(f"\n--- BO1 SERIES RESULT ---")
+            print(f"Predicted Winner: {winner}")
+            print(f"Win Probabilities:")
             print(f"  {t1_real_name:<20}: {final_p1*100:.2f}%")
             print(f"  {t2_real_name:<20}: {(1 - final_p1)*100:.2f}%")
-            print(f"\nProbabilități scor exact:")
-            print(f"  {t1_real_name} 2 - 0: {p_2_0*100:.1f}%")
-            print(f"  {t1_real_name} 2 - 1: {p_2_1*100:.1f}%")
-            print(f"  {t2_real_name} 2 - 1: {p_1_2*100:.1f}%")
-            print(f"  {t2_real_name} 2 - 0: {p_0_2*100:.1f}%")
+
+        elif fmt == "BO3":
+            if len(map_probs) < 3:
+                print(f"\nWarning: BO3 requires 3 maps to simulate accurately. Provided: {len(map_probs)} maps.")
+                final_p1 = base_p1
+            else:
+                p1, p2, p3 = map_probs[0], map_probs[1], map_probs[2]
+                q1, q2, q3 = 1 - p1, 1 - p2, 1 - p3
+
+                p_2_0 = p1 * p2
+                p_2_1 = (p1 * q2 * p3) + (q1 * p2 * p3)
+                p_0_2 = q1 * q2
+                p_1_2 = (q1 * p2 * q3) + (p1 * q2 * q3)
+
+                final_p1 = p_2_0 + p_2_1
+                winner = t1_real_name if final_p1 >= 0.5 else t2_real_name
+
+                print(f"\n--- BO3 SERIES RESULT ---")
+                print(f"Predicted Winner: {winner}")
+                print(f"Series Win Probabilities:")
+                print(f"  {t1_real_name:<20}: {final_p1*100:.2f}%")
+                print(f"  {t2_real_name:<20}: {(1 - final_p1)*100:.2f}%")
+                print(f"\nExact Score Probabilities:")
+                print(f"  {t1_real_name} 2 - 0: {p_2_0*100:.1f}%")
+                print(f"  {t1_real_name} 2 - 1: {p_2_1*100:.1f}%")
+                print(f"  {t2_real_name} 2 - 1: {p_1_2*100:.1f}%")
+                print(f"  {t2_real_name} 2 - 0: {p_0_2*100:.1f}%")
+
+        elif fmt == "BO5":
+            if len(map_probs) < 5:
+                print(f"\nWarning: BO5 requires 5 maps to simulate accurately. Provided: {len(map_probs)} maps.")
+            else:
+                p = map_probs[:5]
+                q = [1 - x for x in p]
+
+                # Exact outcomes for Team 1 winning (First to 3 maps):
+                # 3-0: wins first 3
+                p_3_0 = p[0] * p[1] * p[2]
+
+                # 3-1: exactly 2 wins in first 3, then wins map 4
+                p_3_1 = ((p[0]*p[1]*q[2]) + (p[0]*q[1]*p[2]) + (q[0]*p[1]*p[2])) * p[3]
+
+                # 3-2: exactly 2 wins in first 4, then wins map 5
+                four_map_2wins = (
+                    (p[0]*p[1]*q[2]*q[3]) + (p[0]*q[1]*p[2]*q[3]) + (p[0]*q[1]*q[2]*p[3]) +
+                    (q[0]*p[1]*p[2]*q[3]) + (q[0]*p[1]*q[2]*p[3]) + (q[0]*q[1]*p[2]*p[3])
+                )
+                p_3_2 = four_map_2wins * p[4]
+
+                # Exact outcomes for Team 2 winning:
+                # 0-3: team 2 wins first 3
+                p_0_3 = q[0] * q[1] * q[2]
+
+                # 1-3: team 2 gets 2 wins in first 3, then wins map 4
+                p_1_3 = ((q[0]*q[1]*p[2]) + (q[0]*p[1]*q[2]) + (p[0]*q[1]*q[2])) * q[3]
+
+                # 2-3: team 2 gets 2 wins in first 4, then wins map 5
+                four_map_2losses = (
+                    (q[0]*q[1]*p[2]*p[3]) + (q[0]*p[1]*q[2]*p[3]) + (q[0]*p[1]*p[2]*q[3]) +
+                    (p[0]*q[1]*q[2]*p[3]) + (p[0]*q[1]*p[2]*q[3]) + (p[0]*p[1]*q[2]*q[3])
+                )
+                p_2_3 = four_map_2losses * q[4]
+
+                final_p1 = p_3_0 + p_3_1 + p_3_2
+                winner = t1_real_name if final_p1 >= 0.5 else t2_real_name
+
+                print(f"\n--- BO5 SERIES RESULT ---")
+                print(f"Predicted Winner: {winner}")
+                print(f"Series Win Probabilities:")
+                print(f"  {t1_real_name:<20}: {final_p1*100:.2f}%")
+                print(f"  {t2_real_name:<20}: {(1 - final_p1)*100:.2f}%")
+                print(f"\nExact Score Probabilities:")
+                print(f"  {t1_real_name} 3 - 0: {p_3_0*100:.1f}%")
+                print(f"  {t1_real_name} 3 - 1: {p_3_1*100:.1f}%")
+                print(f"  {t1_real_name} 3 - 2: {p_3_2*100:.1f}%")
+                print(f"  {t2_real_name} 3 - 2: {p_2_3*100:.1f}%")
+                print(f"  {t2_real_name} 3 - 1: {p_1_3*100:.1f}%")
+                print(f"  {t2_real_name} 3 - 0: {p_0_3*100:.1f}%")
+
     else:
-        print(f"\nPredicție Generală Serie ({match_format.upper()}):")
+        # Generic series prediction when maps are not yet specified
+        print(f"\nGeneral Series Prediction ({fmt}):")
         print(f"  {t1_real_name}: {base_p1*100:.2f}%")
         print(f"  {t2_real_name}: {(1 - base_p1)*100:.2f}%")
 
@@ -260,11 +324,11 @@ def predict_match(t1_name, t2_name, match_format="BO3", maps=None):
     conn.close()
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="CS2 Match Outcome Predictor")
-    parser.add_argument("--t1", type=str, required=True, help="Nume echipa 1")
-    parser.add_argument("--t2", type=str, required=True, help="Nume echipa 2")
-    parser.add_argument("--format", type=str, default="BO3", help="Format: BO1 sau BO3")
-    parser.add_argument("--maps", type=str, default=None, help="Hărți separate prin virgulă (ex: Mirage,Inferno,Ancient)")
+    parser = argparse.ArgumentParser(description="CS2 Professional Match Outcome Predictor")
+    parser.add_argument("--t1", type=str, required=True, help="Name of Team 1")
+    parser.add_argument("--t2", type=str, required=True, help="Name of Team 2")
+    parser.add_argument("--format", type=str, default="BO3", choices=["BO1", "BO3", "BO5", "bo1", "bo3", "bo5"], help="Match format: BO1, BO3, or BO5")
+    parser.add_argument("--maps", type=str, default=None, help="Comma-separated list of maps in played order (e.g., Mirage,Inferno,Ancient,Nuke,Dust2)")
 
     args = parser.parse_args()
     map_list = [m.strip() for m in args.maps.split(",")] if args.maps else None

@@ -76,7 +76,7 @@ def train_and_evaluate():
 
     # Feature Importances
     importances = pd.Series(rf.feature_importances_, index=feature_cols).sort_values(ascending=False)
-    print("\n--- TOP 7 CARACTERISTICI IMPORTANTE (RANDOM FOREST) ---")
+    print("\n--- TOP 7 IMPORTANT FEATURES (RANDOM FOREST) ---")
     print(importances.head(7).to_string())
 
     joblib.dump(rf, "cs2_model.pkl")
