@@ -16158,5 +16158,1536 @@
                 "winner": "FUT"
             }
         ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399417/furia-vs-betboom-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "18 Oct",
+        "team1": "FURIA",
+        "team2": "BETBOOM",
+        "series_score": "3:2",
+        "series_winner": "FURIA",
+        "maps_count": 5,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 19,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399416/aurora-vs-falcons-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "18 Oct",
+        "team1": "Aurora",
+        "team2": "Falcons",
+        "series_score": "2:1",
+        "series_winner": "Aurora",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 19,
+                "team2_score": 17,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399415/falcons-vs-betboom-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "17 Oct",
+        "team1": "Falcons",
+        "team2": "BETBOOM",
+        "series_score": "1:2",
+        "series_winner": "BETBOOM",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 14,
+                "team2_score": 16,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "BETBOOM"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399414/furia-vs-aurora-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "17 Oct",
+        "team1": "FURIA",
+        "team2": "Aurora",
+        "series_score": "2:0",
+        "series_winner": "FURIA",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399413/betboom-vs-legacy-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "16 Oct",
+        "team1": "BETBOOM",
+        "team2": "Legacy",
+        "series_score": "2:1",
+        "series_winner": "BETBOOM",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 16,
+                "team2_score": 13,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "BETBOOM"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399412/aurora-vs-9z-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "16 Oct",
+        "team1": "Aurora",
+        "team2": "9z",
+        "series_score": "2:0",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399411/legacy-vs-furia-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "15 Oct",
+        "team1": "Legacy",
+        "team2": "FURIA",
+        "series_score": "1:2",
+        "series_winner": "FURIA",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399410/parivision-vs-betboom-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "15 Oct",
+        "team1": "PARIVISION",
+        "team2": "BETBOOM",
+        "series_score": "1:2",
+        "series_winner": "BETBOOM",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "PARIVISION"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "BETBOOM"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399409/9z-vs-falcons-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "15 Oct",
+        "team1": "9z",
+        "team2": "Falcons",
+        "series_score": "1:2",
+        "series_winner": "Falcons",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "9z"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399408/aurora-vs-ninjas-in-pyjamas-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "15 Oct",
+        "team1": "Aurora",
+        "team2": "Ninjas in Pyjamas",
+        "series_score": "2:0",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399387/furia-vs-betboom-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "14 Oct",
+        "team1": "FURIA",
+        "team2": "BETBOOM",
+        "series_score": "2:0",
+        "series_winner": "FURIA",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399386/legacy-vs-parivision-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "14 Oct",
+        "team1": "Legacy",
+        "team2": "PARIVISION",
+        "series_score": "2:0",
+        "series_winner": "Legacy",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399385/falcons-vs-ninjas-in-pyjamas-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "14 Oct",
+        "team1": "Falcons",
+        "team2": "Ninjas in Pyjamas",
+        "series_score": "2:0",
+        "series_winner": "Falcons",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 16,
+                "team2_score": 13,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2399384/9z-vs-aurora-thunderpick-world-championship-2026",
+        "event_id": "8932",
+        "event_name": "Thunderpick World Championship 2026",
+        "date": "14 Oct",
+        "team1": "9z",
+        "team2": "Aurora",
+        "series_score": "2:0",
+        "series_winner": "9z",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "9z"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 1,
+                "winner": "9z"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398757/vitality-vs-mouz-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "11 Oct",
+        "team1": "Vitality",
+        "team2": "MOUZ",
+        "series_score": "3:0",
+        "series_winner": "Vitality",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 16,
+                "team2_score": 12,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398756/aurora-vs-spirit-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "11 Oct",
+        "team1": "Aurora",
+        "team2": "Spirit",
+        "series_score": "2:0",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398755/mouz-vs-spirit-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "10 Oct",
+        "team1": "MOUZ",
+        "team2": "Spirit",
+        "series_score": "2:1",
+        "series_winner": "MOUZ",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398754/aurora-vs-vitality-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "10 Oct",
+        "team1": "Aurora",
+        "team2": "Vitality",
+        "series_score": "1:2",
+        "series_winner": "Vitality",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398753/falcons-vs-spirit-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "9 Oct",
+        "team1": "Falcons",
+        "team2": "Spirit",
+        "series_score": "0:2",
+        "series_winner": "Spirit",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398752/furia-vs-mouz-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "9 Oct",
+        "team1": "FURIA",
+        "team2": "MOUZ",
+        "series_score": "0:2",
+        "series_winner": "MOUZ",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398751/vitality-vs-parivision-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "9 Oct",
+        "team1": "Vitality",
+        "team2": "PARIVISION",
+        "series_score": "2:0",
+        "series_winner": "Vitality",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 2,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398750/1win-vs-aurora-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "9 Oct",
+        "team1": "1win",
+        "team2": "Aurora",
+        "series_score": "0:2",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398749/spirit-vs-m80-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "7 Oct",
+        "team1": "Spirit",
+        "team2": "M80",
+        "series_score": "2:0",
+        "series_winner": "Spirit",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398748/parivision-vs-natus-vincere-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "7 Oct",
+        "team1": "PARIVISION",
+        "team2": "Natus Vincere",
+        "series_score": "2:1",
+        "series_winner": "PARIVISION",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Natus Vincere"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "PARIVISION"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "PARIVISION"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398747/furia-vs-9z-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "7 Oct",
+        "team1": "FURIA",
+        "team2": "9z",
+        "series_score": "2:0",
+        "series_winner": "FURIA",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398745/falcons-vs-natus-vincere-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "6 Oct",
+        "team1": "Falcons",
+        "team2": "Natus Vincere",
+        "series_score": "2:1",
+        "series_winner": "Falcons",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Inferno",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 15,
+                "team2_score": 19,
+                "winner": "Natus Vincere"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398746/legacy-vs-m80-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "6 Oct",
+        "team1": "Legacy",
+        "team2": "M80",
+        "series_score": "1:2",
+        "series_winner": "M80",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "M80"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "M80"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398743/furia-vs-aurora-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "6 Oct",
+        "team1": "FURIA",
+        "team2": "Aurora",
+        "series_score": "1:2",
+        "series_winner": "Aurora",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398744/9z-vs-betboom-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "6 Oct",
+        "team1": "9z",
+        "team2": "BETBOOM",
+        "series_score": "2:0",
+        "series_winner": "9z",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "9z"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "9z"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398741/g2-vs-parivision-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "6 Oct",
+        "team1": "G2",
+        "team2": "PARIVISION",
+        "series_score": "1:2",
+        "series_winner": "PARIVISION",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "PARIVISION"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "PARIVISION"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398742/spirit-vs-1win-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "6 Oct",
+        "team1": "Spirit",
+        "team2": "1win",
+        "series_score": "0:2",
+        "series_winner": "1win",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "1win"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "1win"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398740/aurora-vs-betboom-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "5 Oct",
+        "team1": "Aurora",
+        "team2": "BETBOOM",
+        "series_score": "2:1",
+        "series_winner": "Aurora",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398739/vitality-vs-falcons-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "5 Oct",
+        "team1": "Vitality",
+        "team2": "Falcons",
+        "series_score": "2:1",
+        "series_winner": "Vitality",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398738/m80-vs-tyloo-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "5 Oct",
+        "team1": "M80",
+        "team2": "TYLOO",
+        "series_score": "2:1",
+        "series_winner": "M80",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "TYLOO"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "M80"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 8,
+                "winner": "M80"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398737/spirit-vs-mouz-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "5 Oct",
+        "team1": "Spirit",
+        "team2": "MOUZ",
+        "series_score": "0:2",
+        "series_winner": "MOUZ",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398735/9z-vs-natus-vincere-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "5 Oct",
+        "team1": "9z",
+        "team2": "Natus Vincere",
+        "series_score": "0:2",
+        "series_winner": "Natus Vincere",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Natus Vincere"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "Natus Vincere"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398736/legacy-vs-1win-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "5 Oct",
+        "team1": "Legacy",
+        "team2": "1win",
+        "series_score": "0:2",
+        "series_winner": "1win",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "1win"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "1win"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398733/parivision-vs-furia-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "5 Oct",
+        "team1": "PARIVISION",
+        "team2": "FURIA",
+        "series_score": "1:2",
+        "series_winner": "FURIA",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "PARIVISION"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 10,
+                "team2_score": 13,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398734/shinden-vs-g2-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "5 Oct",
+        "team1": "ShindeN",
+        "team2": "G2",
+        "series_score": "0:2",
+        "series_winner": "G2",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 6,
+                "team2_score": 13,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 9,
+                "team2_score": 13,
+                "winner": "G2"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398732/betboom-vs-m80-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "4 Oct",
+        "team1": "BETBOOM",
+        "team2": "M80",
+        "series_score": "2:0",
+        "series_winner": "BETBOOM",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "BETBOOM"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "BETBOOM"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398731/vitality-vs-natus-vincere-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "4 Oct",
+        "team1": "Vitality",
+        "team2": "Natus Vincere",
+        "series_score": "2:1",
+        "series_winner": "Vitality",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 5,
+                "team2_score": 13,
+                "winner": "Natus Vincere"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398730/g2-vs-1win-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "4 Oct",
+        "team1": "G2",
+        "team2": "1win",
+        "series_score": "1:2",
+        "series_winner": "1win",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "1win"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 13,
+                "team2_score": 1,
+                "winner": "G2"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "1win"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398729/furia-vs-mouz-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "4 Oct",
+        "team1": "FURIA",
+        "team2": "MOUZ",
+        "series_score": "0:2",
+        "series_winner": "MOUZ",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398728/falcons-vs-aurora-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "4 Oct",
+        "team1": "Falcons",
+        "team2": "Aurora",
+        "series_score": "2:0",
+        "series_winner": "Falcons",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "Falcons"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398727/9z-vs-tyloo-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "4 Oct",
+        "team1": "9z",
+        "team2": "TYLOO",
+        "series_score": "2:0",
+        "series_winner": "9z",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 10,
+                "winner": "9z"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 2,
+                "winner": "9z"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398725/spirit-vs-parivision-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "4 Oct",
+        "team1": "Spirit",
+        "team2": "PARIVISION",
+        "series_score": "2:1",
+        "series_winner": "Spirit",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Ancient",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "PARIVISION"
+            },
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398726/shinden-vs-legacy-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "4 Oct",
+        "team1": "ShindeN",
+        "team2": "Legacy",
+        "series_score": "0:2",
+        "series_winner": "Legacy",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Nuke",
+                "team1_score": 8,
+                "team2_score": 13,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "Legacy"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398724/furia-vs-betboom-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "3 Oct",
+        "team1": "FURIA",
+        "team2": "BETBOOM",
+        "series_score": "2:0",
+        "series_winner": "FURIA",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "FURIA"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 16,
+                "team2_score": 14,
+                "winner": "FURIA"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398723/g2-vs-natus-vincere-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "3 Oct",
+        "team1": "G2",
+        "team2": "Natus Vincere",
+        "series_score": "0:2",
+        "series_winner": "Natus Vincere",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 7,
+                "team2_score": 13,
+                "winner": "Natus Vincere"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 4,
+                "team2_score": 13,
+                "winner": "Natus Vincere"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398722/mouz-vs-m80-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "3 Oct",
+        "team1": "MOUZ",
+        "team2": "M80",
+        "series_score": "2:0",
+        "series_winner": "MOUZ",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 9,
+                "winner": "MOUZ"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 6,
+                "winner": "MOUZ"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398721/aurora-vs-9z-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "3 Oct",
+        "team1": "Aurora",
+        "team2": "9z",
+        "series_score": "2:0",
+        "series_winner": "Aurora",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 3,
+                "winner": "Aurora"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Aurora"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398720/spirit-vs-shinden-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "3 Oct",
+        "team1": "Spirit",
+        "team2": "ShindeN",
+        "series_score": "2:1",
+        "series_winner": "Spirit",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 11,
+                "team2_score": 13,
+                "winner": "ShindeN"
+            },
+            {
+                "map_name": "Nuke",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Spirit"
+            },
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 4,
+                "winner": "Spirit"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398719/vitality-vs-1win-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "3 Oct",
+        "team1": "Vitality",
+        "team2": "1win",
+        "series_score": "2:0",
+        "series_winner": "Vitality",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 1,
+                "winner": "Vitality"
+            },
+            {
+                "map_name": "Cache",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Vitality"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398718/legacy-vs-parivision-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "3 Oct",
+        "team1": "Legacy",
+        "team2": "PARIVISION",
+        "series_score": "1:2",
+        "series_winner": "PARIVISION",
+        "maps_count": 3,
+        "maps": [
+            {
+                "map_name": "Dust2",
+                "team1_score": 13,
+                "team2_score": 5,
+                "winner": "Legacy"
+            },
+            {
+                "map_name": "Inferno",
+                "team1_score": 2,
+                "team2_score": 13,
+                "winner": "PARIVISION"
+            },
+            {
+                "map_name": "Ancient",
+                "team1_score": 12,
+                "team2_score": 16,
+                "winner": "PARIVISION"
+            }
+        ]
+    },
+    {
+        "match_url": "https://www.hltv.org/matches/2398717/falcons-vs-tyloo-esl-pro-league-season-24",
+        "event_id": "8244",
+        "event_name": "Esl Pro League Season 24",
+        "date": "3 Oct",
+        "team1": "Falcons",
+        "team2": "TYLOO",
+        "series_score": "2:0",
+        "series_winner": "Falcons",
+        "maps_count": 2,
+        "maps": [
+            {
+                "map_name": "Mirage",
+                "team1_score": 13,
+                "team2_score": 11,
+                "winner": "Falcons"
+            },
+            {
+                "map_name": "Anubis",
+                "team1_score": 13,
+                "team2_score": 7,
+                "winner": "Falcons"
+            }
+        ]
     }
 ]
